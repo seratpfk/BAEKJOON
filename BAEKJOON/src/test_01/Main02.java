@@ -13,7 +13,7 @@ public class Main02 {
 		
 		System.out.println(a + b);
 		
-		// Scanner ´Ý±â.
+		// Scanner ë‹«ê¸°.
 		sc.close();
 
 	}

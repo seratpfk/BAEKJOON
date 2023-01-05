@@ -14,8 +14,8 @@ public class Main06 {
 		System.out.println(a + b);
 		System.out.println(a - b);
 		System.out.println(a * b);
-		System.out.println(a / b);  // ¸ò
-		System.out.println(a % b);  // ³ª¸ÓÁö
+		System.out.println(a / b);  // ëª«
+		System.out.println(a % b);  // ë‚˜ë¨¸ì§€
 		
 		sc.close();
 

@@ -8,8 +8,8 @@ public class Main05 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		// ³ª´©±âÀÇ °ªÀÌ ¼Ò¼öÁ¡ÀÎ °æ¿ìµµ ÀÖ´Ù.
-		// µû¶ó¼­ intº¸´Ù´Â doubleÀ» »ç¿ëÇÏ±â.
+		// ë‚˜ëˆ„ê¸°ëŠ” ê°’ì´ ì†Œìˆ˜ì ì´ ë‚˜ì˜¬ ìˆ˜ë„ ìˆê¸° ë•Œë¬¸ì—
+		// intë³´ë‹¤ëŠ” doubleì„ ì‚¬ìš©í•œë‹¤.
 		double a = sc.nextDouble();
 		double b = sc.nextDouble();
 		
