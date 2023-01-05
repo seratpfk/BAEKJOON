@@ -4,6 +4,7 @@ public class Main01 {
 
 	public static void main(String[] args) {
 		
+		// 문자열은 " "로 감싸야 한다.
 		System.out.println("Hello World!");
 
 	}
