@@ -2,7 +2,7 @@ package test_01;
 
 import java.util.Scanner;
 
-public class Main02 {
+public class Main03 {
 
 	public static void main(String[] args) {
 		
@@ -11,9 +11,8 @@ public class Main02 {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		
-		System.out.println(a + b);
+		System.out.println(a - b);
 		
-		// Scanner ´Ý±â.
 		sc.close();
 
 	}
